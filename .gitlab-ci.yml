@@ -1,0 +1,4 @@
+include:
+  - project: 'libs/packages'
+    ref: 574e5d5a
+    file: '.gitlab-ci-java-publishing-template.yml'
